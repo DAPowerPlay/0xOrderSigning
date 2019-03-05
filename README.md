@@ -5,4 +5,4 @@ This is an example of how to use [Nethereum](https://github.com/Nethereum/Nether
 
 It can be integrated in any .net algo-trading system for signing before placing an order.
 
-This project contains .NET Standard Library using Nethereum, for hashing an order and creating an ECDSA. 
+This project contains .NET Standard Library using Nethereum, for hashing an order and creating an ECDS. 
